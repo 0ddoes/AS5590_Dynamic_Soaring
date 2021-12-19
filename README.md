@@ -2,9 +2,9 @@
 
 This is a collection of Assignments done as part of the AS5590 Course from the Aerospace Department
 
-*Course Instructor*: Dr. Ranjith Mohan
+**Course Instructor**: Dr. Ranjith Mohan
 
-*Team Members* : RV Rajkumar , Izza
+**Team Members** : RV Rajkumar , Izza
 
 There were 9 Assignments in total with an Endterm Project covering different topics under this new Course Dynamic Soaring. The topics are as follows:
 1. Drag Sphere (Inertial and Relative Frame)
